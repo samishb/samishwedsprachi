@@ -26,7 +26,7 @@
   margin: auto;
 }
 .scroll {
-  height: 400px;
+  height: 290px;
   width: 300px;
   /* background: #ebef4e; */
   background-image: url(../assets/img/scroll.png);
@@ -34,16 +34,70 @@
   padding-top: 50px;
   margin: auto;
 }
+
 .scroll p {
   font-family: "Satisfy", cursive;
   letter-spacing: 2px;
   font-size: 19px;
   color: #764b74;
 }
+
 .scroll span {
   font-family: "Satisfy", cursive;
   font-size: 15px;
   color: #7d6443;
+}
+
+.scroll3 {
+  height: 160px;
+  width: 300px;
+  /* background: #ebef4e; */
+  background-image: url(../assets/img/scroll.png);
+  background-repeat: round;
+  padding-top: 50px;
+  margin: auto;
+}
+
+.scroll3 p {
+  font-family: "Satisfy", cursive;
+  letter-spacing: 2px;
+  font-size: 19px;
+  color: #764b74;
+}
+
+.scroll3 span {
+  font-family: "Satisfy", cursive;
+  font-size: 15px;
+  color: #7d6443;
+}
+
+.scroll2 {
+  height: 550px;
+  width: 300px;
+  /* background: #ebef4e; */
+  background-image: url(../assets/img/scroll.png);
+  background-repeat: round;
+  padding-top: 50px;
+  margin: auto;
+}
+
+.scroll2 p {
+  font-family: "Satisfy", cursive;
+  letter-spacing: 2px;
+  font-size: 19px;
+  color: #764b74;
+}
+
+.scroll2 span {
+  font-family: "Satisfy", cursive;
+  font-size: 15px;
+  color: #7d6443;
+}
+
+.venue {
+  font-family: "Satisfy", cursive;
+  font-size: 15px;
+  color: #764b74;
 }
 .dateTag {
   font-family: "Satisfy", cursive;
@@ -559,7 +613,8 @@ body {
     width: 60%;
   }
   .familyNames {
-    width: 200px;
+    width: 70%;
+    margin-top: 25px!important;
     margin: auto;
   }
   .stickToPageBottom {
