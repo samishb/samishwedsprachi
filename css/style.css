@@ -213,6 +213,12 @@ footer {
   font-size: 22px;
   margin-top: 0;
 }
+
+.footerMessage1 {
+  color: #564861;
+  font-size: 20px;
+  margin-top: -10px;
+}
 .iframeContainer,
 iframe {
   width: 100%;
@@ -614,7 +620,7 @@ body {
   }
   .familyNames {
     width: 70%;
-    margin-top: 25px!important;
+    margin-top: 32px!important;
     margin: auto;
   }
   .stickToPageBottom {
@@ -676,8 +682,11 @@ body {
   letter-spacing: 3px;
   font-size: 24px;
   color: #674ea7;
-  margin-top: 5px;
+  margin-top: 16px;
+  margin-bottom: 16px;
   font-family: "Satisfy", cursive;
+  padding-left: 4px;
+  padding-right: 4px;
 }
 
 .title p {
