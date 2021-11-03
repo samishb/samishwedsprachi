@@ -34,6 +34,7 @@ $(".backButton").on("click", function () {
 });
 
 $("#detailedItineraryBlock").on("click", function () {
+  window.scrollTo(0,0);
   showHidePages(pages[2]);
 });
 
