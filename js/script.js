@@ -42,6 +42,14 @@ $("#howToReachBlock").on("click", function () {
   showHidePages(pages[4]);
 });
 
+$("#picGalleryBlock").on("click", function () {
+  showHidePages(pages[5]);
+});
+
+$("#rsvp").on("click", function () {
+  showHidePages(pages[6]);
+});
+
 $("#rsvpButton").on("click", function () {
   showHidePages(pages[6]);
 });
